@@ -46,16 +46,15 @@ public class Homework2 {
 //            3 Расширение файла:
 //            4 Расширение файла: jpg
 
-    private static void task2()  {
+    private static void task2() {
         File directory = new File("D:\\Программирование\\ДЗ\\Java-Homework\\src\\main\\java\\homework2");
         String files[] = directory.list();
-        for(int i=0; i<files.length; i++) {
+        for (int i = 0; i < files.length; i++) {
             if (files[i].toString().contains(".")) {
                 String contentsString = files[i].toString();
                 System.out.printf("%s Расширение файла: %s\n", i + 1,
                         contentsString.substring(contentsString.indexOf(".") + 1));
-            }
-            else {
+            } else {
                 System.out.printf("%s Расширение файла: \n", i + 1);
             }
         }
