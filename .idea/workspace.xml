@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="287f31cd-3750-476f-b565-230ca849ae03" name="Changes" comment="Homework1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Homework2.java" afterDir="false" />
+    <list default="true" id="287f31cd-3750-476f-b565-230ca849ae03" name="Changes" comment="Homework2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Homework3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Программирование/ДЗ/Java-Homework",
-    "onboarding.tips.debug.path": "D:/Программирование/ДЗ/Java-Homework/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Программирование/Java/lessons/java-practice-20230413&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Программирование/ДЗ/Java-Homework/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="homework2" />
@@ -80,12 +79,34 @@
       <option name="project" value="LOCAL" />
       <updated>1682194925614</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework1">
+      <created>1682352625680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682352625680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework2">
+      <created>1682352663940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682352663940</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework2">
+      <created>1682352825618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682352825618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework1" />
+    <MESSAGE value="Homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -94,6 +115,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/homework3/Homework3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
