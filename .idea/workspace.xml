@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="287f31cd-3750-476f-b565-230ca849ae03" name="Changes" comment="Homework2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Homework3.java" afterDir="false" />
+    <list default="true" id="287f31cd-3750-476f-b565-230ca849ae03" name="Changes" comment="Homework3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework4/Homework4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5db02fce-02b6-4eaf-8d8b-80a052254865" />
+        <option name="url" value="https://github.com/Liamina-Irina/Java-Homework.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2OnEMNssW5sIugMfRqTcpdg9lEj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,13 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682352825618</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework3">
+      <created>1682618295463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682618295463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework1" />
     <MESSAGE value="Homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework2" />
+    <MESSAGE value="Homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
