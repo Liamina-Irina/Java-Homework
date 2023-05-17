@@ -4,8 +4,8 @@ import java.util.*;
 
 public class Homework4 {
     public static void main(String[] args) {
-        task1();
-        //task2();
+        //task1();
+        task2();
     }
 
 //    1. Реализовать консольное приложение, которое:
@@ -44,14 +44,20 @@ public class Homework4 {
 //   2. Пусть дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список.
 
     private static void task2() {
+//        LinkedList<String> someList = new LinkedList<>(Arrays.asList("Привет", "!", "Как", "дела", "?"));
+//        System.out.println(someList);
+//            for (int i = 0; i < someList.size() / 2; i++) {
+//                int index = someList.size() - 1 - i;
+//                String temp = someList.get(i);
+//                someList.set(i, someList.get(index));
+//                someList.set(index, temp);
+//            }
+//        System.out.println(someList);
         LinkedList<String> someList = new LinkedList<>(Arrays.asList("Привет", "!", "Как", "дела", "?"));
-        System.out.println(someList);
-            for (int i = 0; i < someList.size() / 2; i++) {
-                int index = someList.size() - 1 - i;
-                String temp = someList.get(i);
-                someList.set(i, someList.get(index));
-                someList.set(index, temp);
-            }
+        while (!someList.isEmpty()) {
+            someList.addFirst(someList.removeFirst());
+        }
+        someList.addAll(someList);
         System.out.println(someList);
     }
 }
