@@ -11,13 +11,13 @@ public class Notebook {
     String colour;
     int price;
 
-    public Notebook(String brand, String model, double diagonal, int rAM, int hDDCapacity,
+    public Notebook(String brand, String model, double diagonal, int rAM, int sSD,
                     String operationSystem, String colour, int price) {
         this.brand = brand;
         this.model = model;
         this.diagonal = diagonal;
         this.rAM = rAM;
-        this.sSD = hDDCapacity;
+        this.sSD = sSD;
         this.operationSystem = operationSystem;
         this.colour = colour;
         this.price = price;
